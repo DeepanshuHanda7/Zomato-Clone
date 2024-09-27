@@ -13,7 +13,7 @@ const Header = () => {
                   <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" />
                 </svg>
               </div>
-              <div className='cursor-point'>Bengalore, India</div>
+              <div className='cursor-point'>Bangalore, India</div>
             </div>
             <div>
               <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} fill="currentColor" className="bi bi-caret-down-fill absolute-center cursor-point" viewBox="0 0 16 16">
@@ -33,7 +33,7 @@ const Header = () => {
           <img src="https://b.zmtcdn.com/web/assets/2267aec184e096c98c46a1565a5563661664945464.png?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
             alt="Profile"
             className='header-profile-image cursor-point' />
-          <span className='header-username cursor-point'>Priyansh</span>
+          <span className='header-username cursor-point'>Deepanshu</span>
           <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="bi bi-chevron-down absolute-center profile-options-icon cursor-point" viewBox="0 0 16 16">
             <path fillRule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
           </svg>
